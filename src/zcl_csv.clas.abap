@@ -6,7 +6,7 @@ CLASS zcl_csv DEFINITION
 
   PUBLIC SECTION.
 
-    TYPES:
+    TYPES1:
       "! <p>Table of string</p>
       ty_t_string TYPE STANDARD TABLE OF string WITH EMPTY KEY.
 
