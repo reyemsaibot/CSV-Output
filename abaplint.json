@@ -259,7 +259,7 @@
     "local_variable_names": {
       "expectedData": "^L._.*$",
       "expectedConstant": "^LC_.*$",
-      "expectedFS": "^<L._.*>$"
+      "expectedFS": "^<(L|F)._.*>$"
     },
     "main_file_contents": true,
     "max_one_statement": true,
