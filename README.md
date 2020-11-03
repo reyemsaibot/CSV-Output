@@ -1,6 +1,6 @@
 [![YourActionName Actions Status](https://github.com/reyemsaibot/CSV-Output/workflows/Main/badge.svg)](https://github.com/reyemsaibot/CSV-Output/actions)
 
-[![abap package version](https://img.shields.io/endpoint?url=https://shield.abap.space/version-shield-json/github/reyemsaibot/CSV-Output/src/zcl_csv.clas.abap/gc_version&label=version)](.apack-manifest.xml)
-
 # CSV Output
- Transform an internal table to a CSV output
+This little tool gives you based on your internal table an internal table with separator back. You can also define a headline for the file.
+
+After transforming the internal table you can use the normal SAP GUI Frontend Tools to download.
